@@ -19,8 +19,9 @@
 <acme:menu-bar>
 	<acme:menu-left>
 		<acme:menu-option code="master.menu.anonymous" access="isAnonymous()">
-			<acme:menu-suboption code="77844410J: Escobar SÃ¡nchez, Alberto" action="https://www.minecraft.net/es-es"/>
-			<acme:menu-suboption code="49237577M: SuÃ¡rez Coronel, Celia" action="https://ev.us.es/ultra/course"/>
+			<acme:menu-suboption code="77844410J: Escobar Sánchez, Alberto" action="https://www.minecraft.net/es-es"/>
+			<acme:menu-suboption code="30276353G: Cantalejo Gómez, Olga" action="https://www.zara.com/es/"/>
+			<acme:menu-suboption code="49237577M: Suárez Coronel, Celia" action="https://ev.us.es/ultra/course"/>
 		</acme:menu-option>
 
 		<acme:menu-option code="master.menu.administrator" access="hasRealm('Administrator')">
