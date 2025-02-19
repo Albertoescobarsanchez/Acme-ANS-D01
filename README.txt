@@ -17,5 +17,11 @@ To get this project up and running, please follow the guideline in the theory/la
 taking into account that you must link the appropriate version of the Acme-Framework excluding 
 the following resources:
 
-- **/fragments/**
- 
+**Planning Dashboard:**
+
+- Group Planning Dashboard: https://github.com/users/Albertoescobarsanchez/projects/4
+- Student 01 Planning Dashboard: https://github.com/users/Albertoescobarsanchez/projects/6
+- Student 02 Planning Dashboard: https://github.com/users/Albertoescobarsanchez/projects/7
+- Student 03 Planning Dashboard: https://github.com/users/Albertoescobarsanchez/projects/8
+- Student 04 Planning Dashboard: https://github.com/users/Albertoescobarsanchez/projects/9
+- Student 05 Planning Dashboard: https://github.com/users/Albertoescobarsanchez/projects/10
